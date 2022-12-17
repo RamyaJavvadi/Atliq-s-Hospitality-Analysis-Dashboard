@@ -64,7 +64,8 @@ Key Insights:
 
 1. For more than 50% of bookings for all the properties, Ratings are not given by customers which might affect the revenue since online bookings are mostly done after checking ratings.
 
-2.Almost 75% of bookings are done through other booking platforms, must develop strategies to drive revenue/bookings through atliq's direct channels to reduce commission costs and increase revenue.
+
+2. Almost 75% of bookings are done through other booking platforms, must develop strategies to drive revenue/bookings through atliq's direct channels to reduce commission costs and increase revenue.
 
 3.Occupancy% is more on weekends than on weekdays, might need to offer more discounts on weekdays inorder increase bookings.
 
