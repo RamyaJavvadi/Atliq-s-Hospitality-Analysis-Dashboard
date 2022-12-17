@@ -34,6 +34,22 @@ Data Model
  
 
 Dashboard
+
+
+![image](https://user-images.githubusercontent.com/110155802/208255442-088f67eb-e3aa-41dd-894f-338e5ebe780e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/110155802/208255461-2dfd12db-ab38-4bc3-b7d2-21817da66551.png)
+
+
+![image](https://user-images.githubusercontent.com/110155802/208255475-5eda4a70-3097-41c6-82f8-01daef92687d.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/110155802/208255493-26aba65b-79a5-454f-88b2-31b973429dd2.png)
+
  
  
  
